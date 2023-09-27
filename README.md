@@ -1,1 +1,1 @@
-# Iformational Telegram Bot for NA Russian Phuket Community 
+# Informational Telegram Bot for NA Russian Phuket Community 
